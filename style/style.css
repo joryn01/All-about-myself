@@ -1,0 +1,56 @@
+header {
+    background-color:burlywood;
+    padding: 20px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+nav li {
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color:blue;
+    font-size: 20px;
+    margin-top: 20px;
+}
+nav a:hover {
+    color:blue;
+    margin-top: 20px;
+}
+p {
+   margin: 20px;
+}
+#id1 {
+    background-color: #fff700;
+    color: dark;
+}
+p {
+    color: black;
+}
+.aww {
+    border-left: 6px solid red;
+    background-color: lightgrey;
+    padding: 15px;
+    margin: 20px;
+    font-style: italic;
+}
+figure{
+    text-align: center;
+    font-weight: bold;
+}
+.ass {
+    border: 15px;
+    border-style: outset;
+    border-right-color: blue;
+}
+#id2 {
+    text-align: center;
+    font-weight: bold;
+}
+
